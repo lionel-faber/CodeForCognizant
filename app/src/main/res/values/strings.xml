@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CTS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_application_id" translatable="false">347656365672434</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb347656365672434</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="leader">Team Leader</string>
+    <string name="leadermail">Email</string>
+    <string name="mate1">Teammate 1</string>
+    <string name="mate2">Teammate 2</string>
+    <string name="btn_sign_up">Create Team</string>
+    <string name="about">\t\tWelcome to MasterCode—a coding challenge and 12 hour hackathon, conducted by Cognizant exclusively for engineering and arts &amp; science students.\n \t\tDigital innovation is powered by people. We believe that the right talent will help us navigate this shift, and with MasterCode, we bring you an opportunity to be part of this exciting journey.\n \nCome, crack the code to success! \nStarts in:</string>
+    <string name="problem"><html><body style="text-align: justify;">\t\tWhen people have little say in the decision-making process, you no longer have a real democracy. Political accessibility is an issue that’s faced often enough but rarely questioned.\n\n \t\tWe need solutions that make it easier for citizens to be heard by representatives—solutions that can keep people in remote corners of the country informed about the latest decisions, increasing participation in elections and government affairs.</body></html></string>
+</resources>

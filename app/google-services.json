@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "580188195340",
+    "firebase_url": "https://ctsapp-41576.firebaseio.com",
+    "project_id": "ctsapp-41576",
+    "storage_bucket": "ctsapp-41576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580188195340:android:5fd7db105a3c0877",
+        "android_client_info": {
+          "package_name": "me.lionelfaber.cts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580188195340-tbdc43mrohda1ppt62h5lfludgg4bbpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.lionelfaber.cts",
+            "certificate_hash": "bcc055b0baec6f59875e2b5b41a5527818f8bd8f"
+          }
+        },
+        {
+          "client_id": "580188195340-131gpil8au8k97880rjjra8l8ktq7q1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgaqhUpcwkqq9mxkGAh0mlcLncukcQYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580188195340-131gpil8au8k97880rjjra8l8ktq7q1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
